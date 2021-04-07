@@ -1,0 +1,19 @@
+[
+  {
+    "_class" : "com.bilgeadam.gsmhandler.entity.Menu",
+    "name": "Çekiliş"
+  },
+  {
+    "_class" : "com.bilgeadam.gsmhandler.entity.Menu",
+    "name": "Fatura"
+  },
+  {
+  "_class" : "com.bilgeadam.gsmhandler.entity.Product",
+  "number":"05324448740"
+},
+  {
+    "_class" : "com.bilgeadam.gsmhandler.entity.Product",
+    "number":"05324444400"
+  }
+
+]
