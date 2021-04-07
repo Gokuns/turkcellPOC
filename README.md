@@ -9,7 +9,11 @@
 >
 > sitesinden MongoDB Community server, sistem özellikleri seçilerek indirilip kurulur.
 > 
-> Kurulan dizinde komut satırına
+> Kurulan dizinde içinde
+>
+> > MongoDB/Server/4.4/bin 
+>
+>   komut satırına
 > > mogod
 > 
 > komutu ile lokal sunucu çalıştırılır.
