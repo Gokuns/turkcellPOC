@@ -26,7 +26,7 @@
 >
 >seçeneğine tıklanarak localhost:27017 sunucusuna kolayca bağlanılabilir.
 >
-
+## Çalıştırma
 - Sunucu'da veritabanı oluşturma
 > Mongodb sunucus dizininde ek bir komut satırı daha oluşuturularak
 > > mongo
